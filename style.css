@@ -55,7 +55,9 @@ body {
    padding: 25px;
    background: linear-gradient(to bottom right, rgb(112, 4, 4), rgb(100, 97, 97), black);
   }
-  
+  .lead {
+      font-size: 30px;
+  }
   header {
     text-align:center;    
     background-image: url("./img/R.jpg");
